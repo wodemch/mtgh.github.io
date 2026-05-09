@@ -1,5 +1,6 @@
 ---
-tittle: ms
+title: plan A
+date: 3000-06-26 17:00:00 
 ---
 Welcome to youlechang
 
